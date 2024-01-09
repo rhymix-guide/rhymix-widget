@@ -1,0 +1,6 @@
+.gitattributes export-ignore
+.gitignore export-ignore
+.gitkeep export-ignore
+phpstan.neon export-ignore
+phpstan.neon.dist export-ignore
+vendor/bin export-ignore

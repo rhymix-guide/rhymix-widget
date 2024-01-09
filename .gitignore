@@ -1,0 +1,4 @@
+phpstan.neon
+vendor/**/bin
+vendor/**/tests?
+vendor/phpstan

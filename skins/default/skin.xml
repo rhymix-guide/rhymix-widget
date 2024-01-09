@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin version="0.2">
+    <title xml:lang="ko">default 스킨</title>
+    <description xml:lang="ko">default 스킨</description>
+    <!-- 스킨 버전 -->
+    <version>1.0.0</version>
+    <!-- 배포일 -->
+    <date>2024-01-01</date>
+
+    <author email_address="author@email.local" link="https://github.com/rhymix-guide/">
+        <name xml:lang="ko">제작자 이름</name>
+    </author>
+
+    <colorset>
+        <color name="auto">
+            <title xml:lang="ko">맞춤</title>
+        </color>
+        <color name="light">
+            <title xml:lang="ko">밝음</title>
+        </color>
+        <color name="dark">
+            <title xml:lang="ko">어두움</title>
+        </color>
+    </colorset>
+</skin>

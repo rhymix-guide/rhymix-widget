@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget version="0.2">
+    <title xml:lang="ko">Example1 위젯</title>
+    <description xml:lang="ko">Exmaple1 위젯입니다</description>
+    <!-- 위젯 버전 -->
+    <version>1.0.0</version>
+    <!-- 위젯 배포일 -->
+    <date>2024-01-01</date>
+
+    <!-- 제작자 정보 -->
+    <author email_address="author@email.local" link="https://github.com/rhymix-guide/">
+        <name xml:lang="ko">제작자 이름</name>
+    </author>
+
+    <extra_vars>
+        <var id="title" type="text">
+            <name xml:lang="ko">위젯 제목</name>
+        </var>
+
+        <var id="list_count" type="text">
+            <name xml:lang="ko">목록 수</name>
+            <description xml:lang="ko">출력될 목록의 수. (기본 `5`)</description>
+        </var>
+    </extra_vars>
+</widget>
