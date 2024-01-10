@@ -25,9 +25,9 @@
 
 ```diff
 -   widgets/example1        # 이 예제 위젯의 폴더
-+   widgets/awesoem         # 이 예제 위젯의 폴더
++   widgets/awesome         # 이 예제 위젯의 폴더
 -   ├── example1.class.php  # 위젯의 메인 클래스
-+   ├── awesoem.class.php   # 위젯의 메인 클래스
++   ├── awesome.class.php   # 위젯의 메인 클래스
     ├── LICENSE             # 라이선스 파일 (GNU GPL v2 or later)
     └── README.md
 ```
